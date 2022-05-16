@@ -1,0 +1,5 @@
+---
+applications:
+- name: mod4-act2-train
+  random-route: true
+  memory: 128M
